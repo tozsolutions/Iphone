@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings (Turkish)
+  iPhone App
+*/
+
+// General
+"app_name" = "iPhone";
+"welcome" = "Hoş Geldiniz";
+"get_started" = "Başlayın";
+"continue" = "Devam";
+"cancel" = "İptal";
+"ok" = "Tamam";
+"done" = "Bitti";
+"save" = "Kaydet";
+"delete" = "Sil";
+"edit" = "Düzenle";
+"close" = "Kapat";
+
+// Home
+"home_title" = "Ana Sayfa";
+"home_dashboard" = "Ana Sayfa Paneli";
+"home_welcome_message" = "Kişiselleştirilmiş panonuza hoş geldiniz";
+
+// Features
+"settings" = "Ayarlar";
+"profile" = "Profil";
+"analytics" = "Analitik";
+"notifications" = "Bildirimler";
+"configure_preferences" = "Uygulama tercihlerini yapılandırın";
+"manage_profile" = "Profilinizi yönetin";
+"view_statistics" = "İstatistiklerinizi görüntüleyin";
+"manage_notifications" = "Bildirimleri yönetin";
+
+// Actions
+"primary_action" = "Birincil Eylem";
+"secondary_action" = "İkincil Eylem";
+"feature_coming_soon" = "Özellik Yakında Geliyor";
+"feature_coming_soon_message" = "Bu özellik gelecek bir güncellemede kullanılabilir olacak.";
+
+// Errors
+"error_network" = "Ağ Hatası";
+"error_network_message" = "Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin.";
+"error_generic" = "Bir Hata Oluştu";
+"error_generic_message" = "Bir şeyler yanlış gitti. Lütfen daha sonra tekrar deneyin.";
+
+// App Description
+"app_description" = "SwiftUI ile geliştirilmiş modern bir iOS uygulaması";
+"welcome_message" = "iPhone Uygulamasına Hoş Geldiniz";

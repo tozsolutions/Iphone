@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings (English)
+  iPhone App
+*/
+
+// General
+"app_name" = "iPhone";
+"welcome" = "Welcome";
+"get_started" = "Get Started";
+"continue" = "Continue";
+"cancel" = "Cancel";
+"ok" = "OK";
+"done" = "Done";
+"save" = "Save";
+"delete" = "Delete";
+"edit" = "Edit";
+"close" = "Close";
+
+// Home
+"home_title" = "Home";
+"home_dashboard" = "Home Dashboard";
+"home_welcome_message" = "Welcome to your personalized dashboard";
+
+// Features
+"settings" = "Settings";
+"profile" = "Profile";
+"analytics" = "Analytics";
+"notifications" = "Notifications";
+"configure_preferences" = "Configure app preferences";
+"manage_profile" = "Manage your profile";
+"view_statistics" = "View your statistics";
+"manage_notifications" = "Manage notifications";
+
+// Actions
+"primary_action" = "Primary Action";
+"secondary_action" = "Secondary Action";
+"feature_coming_soon" = "Feature Coming Soon";
+"feature_coming_soon_message" = "This feature will be available in a future update.";
+
+// Errors
+"error_network" = "Network Error";
+"error_network_message" = "Please check your internet connection and try again.";
+"error_generic" = "An Error Occurred";
+"error_generic_message" = "Something went wrong. Please try again later.";
+
+// App Description
+"app_description" = "A modern iOS application built with SwiftUI";
+"welcome_message" = "Welcome to iPhone App";
